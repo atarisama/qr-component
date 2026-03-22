@@ -15,8 +15,8 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/atarisama/qr-component)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://qr-component-alpha.vercel.app/)
+-  [**Repositorio en GitHub**](https://github.com/atarisama/qr-component)
+-  [**Sitio desplegado (Vercel)**](https://qr-component-alpha.vercel.app/)
 
 ---
 
